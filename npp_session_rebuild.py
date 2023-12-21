@@ -69,7 +69,7 @@ def main():
     # Automatically determine backup directory
     username = os.environ.get("USERNAME")
     backup_path = fr"C:\Users\{username}\AppData\Roaming\Notepad++\backup"
-    print(f"Backup-Verzeichnis: {backup_path}")
+    print(f"Backup Directory: {backup_path}")
 
     # Determine sorting method
     sort_method = "date"
