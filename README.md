@@ -27,7 +27,7 @@ To use the script, clone this repository or download the `notepad_plusplus_sessi
 Example of running the script:
 
 ```bash
-python notepad_plusplus_session_rebuild.py --sort-by-name
+python npp_session_rebuild.py --sort-by-name
 ```
 Upon successful execution, the script will output the path of the newly created session.xml file.
 
